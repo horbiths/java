@@ -8,6 +8,6 @@ public class Comment { //Comment 클래스의 범위 시작
 		System.out.println("Hello Java4");
 		이 사이의 모든 텍스트는 주석으로 처리된다.
 		*/
-
+		// 주석은 자바 프로그램이 읽지 않고 무시하는 부분이다.
 	}
 }
